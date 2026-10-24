@@ -1,23 +1,38 @@
 # Hi, I'm Zigen Han (韩梓根) 👋
 
-**iOS/SwiftUI · Python · Multi-agent AI systems** — 12 years shipping apps, Shenzhen, China.
+**iOS/SwiftUI · Python/FastAPI · Multi-agent AI systems** — 12 years shipping apps. Shenzhen, China (UTC+8, flexible overlap with US/EU hours).
 
-- 🔨 Building **DeepInsight** (深研) & **StockAgents** — AI multi-agent stock research apps, **both live on the App Store** (CN + US regions)
-- 🤝 Open-source contributor: **20+ merged PRs** across [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) (HKUDS) and [rea](https://github.com/morluto/rea) — loaders, backtest engines, agent runtime, Windows native tooling
-- 💼 Previously: iOS engineer on apps that served **tens of millions of users** (fitness, fintech)
-- 🧰 Daily stack: Swift/SwiftUI · Python/FastAPI · TypeScript · LLM multi-agent orchestration (LangGraph-style) · trading/backtest systems
-- 📮 **Open to remote work** (iOS / Python / AI agent development) — zigenhan@gmail.com
+## What I can build for you
 
-### Currently shipping
+- 📱 **iOS apps** — SwiftUI/UIKit, from MVP to App Store submission (I've shipped apps to both CN and US storefronts, solo, end to end)
+- 🐍 **Backends & data pipelines** — Python/FastAPI, async, SQLite/Postgres, deployment & monitoring
+- 🤖 **AI agents & LLM integrations** — multi-agent pipelines (LangGraph-style), tool use, RAG, prompt engineering at production scale
+- 🌐 **Web & cross-platform** — TypeScript, WeChat Mini Programs, landing pages
 
-| Project | What it is | My role |
+## Currently shipping (solo, full-stack)
+
+| App | Store | What it is |
 |---|---|---|
-| [DeepInsight 深研](https://apps.apple.com/cn/app/id6740157000) | AI multi-agent stock research app (CN App Store) | Solo full-stack: SwiftUI + FastAPI + 13-agent pipeline |
-| [StockAgents](https://apps.apple.com/app/id6740157000) | Global edition (US App Store) | Same codebase, dual-target, IAP + subscriptions |
+| [深研 DeepInsight](https://apps.apple.com/cn/app/id6790739881) | 🇨🇳 CN App Store | AI multi-agent stock research — SwiftUI + FastAPI + 13-agent pipeline, IAP subscriptions |
+| [StockAgents](https://apps.apple.com/us/app/stockagents/id6802046117) | 🇺🇸 US App Store | Global edition — same codebase, dual-target, independent listing |
 
-### Recent open-source activity
+## Open-source contributions
 
-Detailed on my [contribution graph](https://github.com/Jackzigen) — the last 3 months are almost entirely commits to Vibe-Trading and rea upstreams.
+**50+ PRs across 7 major repos (36k–375k stars). 13 merged, 10 in review.** All found, root-caused, fixed and tested by me.
+
+| Repo | Stars | Merged PRs | Open PRs |
+|---|---|---|---|
+| [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) (HKUDS) | 36k | **12** — data loaders, backtest engine, agent runtime refactors | — |
+| [OpenMontage](https://github.com/calesthio/OpenMontage) | 71k | 1 — video path bugfix | — |
+| [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 113k | — | 5 |
+| [rea](https://github.com/morluto/rea) | 375k | — | 3 |
+| [ComfyUI](https://github.com/Comfy-Org/ComfyUI) · [scrapy](https://github.com/scrapy/scrapy) · [litellm](https://github.com/BerriAI/litellm) | 62k–142k | — | 1 each |
+
+Previously: iOS engineer on apps that served tens of millions of users (fitness, fintech).
+
+## 📮 Open to remote contract work
+
+iOS · Python backend · AI agent development — **zigenhan@gmail.com**
 
 <a href="https://github.com/Jackzigen">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jackzigen&show_icons=true&theme=default&count_private=true&include_all_commits=true" />
