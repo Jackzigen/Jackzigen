@@ -1,4 +1,4 @@
-# Hi, I'm Zigen Han (韩梓根) 👋
+# Hi, I'm Jason Han 👋
 
 **iOS/SwiftUI · Python/FastAPI · Multi-agent AI systems** — 12 years shipping apps. Shenzhen, China (UTC+8, flexible overlap with US/EU hours).
 
@@ -35,7 +35,7 @@ Previously: iOS engineer on apps that served tens of millions of users (fitness,
 
 ## 📮 Open to remote contract work
 
-iOS · Python backend · AI agent development — **zigenhan@gmail.com**
+iOS · Python backend · AI agent development — **Jason** · zigenhan@gmail.com
 
 <a href="https://github.com/Jackzigen">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jackzigen&show_icons=true&theme=default&count_private=true&include_all_commits=true" />
