@@ -18,15 +18,18 @@
 
 ## Open-source contributions
 
-**50+ PRs across 7 major repos (36k–375k stars). 13 merged, 10 in review.** All found, root-caused, fixed and tested by me.
+**23 merged PRs + 6 in review across 7 major repos (36k–375k stars).** All found, root-caused, fixed and tested by me — no drive-by typo fixes.
 
-| Repo | Stars | Merged PRs | Open PRs |
+| Repo | Stars | Merged PRs | In review |
 |---|---|---|---|
-| [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) (HKUDS) | 36k | **12** — data loaders, backtest engine, agent runtime refactors | — |
+| [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) (HKUDS) | 36k | **22** — data loaders, backtest engine, agent runtime, grounding/eval fixes | — |
 | [OpenMontage](https://github.com/calesthio/OpenMontage) | 71k | 1 — video path bugfix | — |
-| [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 113k | — | 5 |
 | [rea](https://github.com/morluto/rea) | 375k | — | 3 |
-| [ComfyUI](https://github.com/Comfy-Org/ComfyUI) · [scrapy](https://github.com/scrapy/scrapy) · [litellm](https://github.com/BerriAI/litellm) | 62k–142k | — | 1 each |
+| [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 113k | — | 1 |
+| [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 144k | — | 1 |
+| [litellm](https://github.com/BerriAI/litellm) | 62k | — | 1 |
+
+**Latest (Oct 2026):** 5 upstream bug fixes for [magpie](https://github.com/yetone/magpie) (26k★ desktop AI gateway) — tray i18n, hit-rate precision, a hanging test, reasoning-token accounting, a pre-start click race — each root-caused with regression tests, delivered as fix branches linked from the issue threads.
 
 Previously: iOS engineer on apps that served tens of millions of users (fitness, fintech).
 
