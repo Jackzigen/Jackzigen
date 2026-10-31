@@ -18,14 +18,14 @@
 
 ## Open-source contributions
 
-**23 merged PRs + 6 in review across 7 major repos (36k–375k stars).** All found, root-caused, fixed and tested by me — no drive-by typo fixes.
+**23 merged PRs + 6 in review across 7 major repos (37k–414k stars).** All found, root-caused, fixed and tested by me — no drive-by typo fixes.
 
 | Repo | Stars | Merged PRs | In review |
 |---|---|---|---|
-| [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) (HKUDS) | 36k | **22** — data loaders, backtest engine, agent runtime, grounding/eval fixes | — |
-| [OpenMontage](https://github.com/calesthio/OpenMontage) | 71k | 1 — video path bugfix | — |
-| [rea](https://github.com/morluto/rea) | 375k | — | 3 |
-| [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 113k | — | 1 |
+| [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) (HKUDS) | 37k | **22** — data loaders, backtest engine, agent runtime, grounding/eval fixes | — |
+| [OpenMontage](https://github.com/calesthio/OpenMontage) | 74k | 1 — video path bugfix | — |
+| [rea](https://github.com/morluto/rea) | 414k | — | 3 |
+| [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 119k | — | 1 |
 | [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 144k | — | 1 |
 | [litellm](https://github.com/BerriAI/litellm) | 62k | — | 1 |
 
