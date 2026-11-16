@@ -18,18 +18,18 @@
 
 ## Open-source contributions
 
-**23 merged PRs + 6 in review across 7 major repos (37k–414k stars).** All found, root-caused, fixed and tested by me — no drive-by typo fixes.
+**25 merged PRs + 10 in review across 7 major repos (38k–462k stars).** All found, root-caused, fixed and tested by me — no drive-by typo fixes.
 
 | Repo | Stars | Merged PRs | In review |
 |---|---|---|---|
-| [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) (HKUDS) | 37k | **22** — data loaders, backtest engine, agent runtime, grounding/eval fixes | — |
-| [OpenMontage](https://github.com/calesthio/OpenMontage) | 74k | 1 — video path bugfix | — |
-| [rea](https://github.com/morluto/rea) | 414k | — | 3 |
-| [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 119k | — | 1 |
-| [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 144k | — | 1 |
-| [litellm](https://github.com/BerriAI/litellm) | 62k | — | 1 |
+| [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) (HKUDS) | 38k | **24** — data loaders, backtest engine, agent runtime, grounding/eval fixes | — |
+| [OpenMontage](https://github.com/OpenMontageInc/OpenMontage) | 81k | 1 — video path bugfix | — |
+| [rea](https://github.com/morluto/rea) | 462k | — | 3 |
+| [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 123k | — | 5 |
+| [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 147k | — | 1 |
+| [litellm](https://github.com/BerriAI/litellm) | 63k | — | 1 |
 
-**Latest (Oct 2026):** 5 upstream bug fixes for [magpie](https://github.com/yetone/magpie) (26k★ desktop AI gateway) — tray i18n, hit-rate precision, a hanging test, reasoning-token accounting, a pre-start click race — each root-caused with regression tests, delivered as fix branches linked from the issue threads.
+**Latest (Oct–Nov 2026):** 10 issues tackled for [magpie](https://github.com/yetone/magpie) (37k★ desktop AI gateway) — 5 tested fix branches (tray i18n, hit-rate precision, a hanging test, reasoning-token accounting, a pre-start click race) plus 5 deep root-cause analyses posted to issue threads (gateway smart-routing stickiness, Windows orphan processes, per-platform path display, multi-device sync losing model picks), each referencing exact source lines on current main.
 
 Previously: iOS engineer on apps that served tens of millions of users (fitness, fintech).
 
