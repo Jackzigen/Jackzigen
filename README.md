@@ -18,18 +18,18 @@
 
 ## Open-source contributions
 
-**25 merged PRs + 10 in review across 7 major repos (38k–462k stars).** All found, root-caused, fixed and tested by me — no drive-by typo fixes.
+**26 merged PRs + 9 in review across 7 major repos (39k–478k stars).** All found, root-caused, fixed and tested by me — no drive-by typo fixes.
 
 | Repo | Stars | Merged PRs | In review |
 |---|---|---|---|
-| [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) (HKUDS) | 38k | **24** — data loaders, backtest engine, agent runtime, grounding/eval fixes | — |
-| [OpenMontage](https://github.com/OpenMontageInc/OpenMontage) | 81k | 1 — video path bugfix | — |
-| [rea](https://github.com/morluto/rea) | 462k | — | 3 |
-| [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 123k | — | 5 |
-| [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 147k | — | 1 |
-| [litellm](https://github.com/BerriAI/litellm) | 63k | — | 1 |
+| [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) (HKUDS) | 39k | **24** — data loaders, backtest engine, agent runtime, grounding/eval fixes | 1 |
+| [rea](https://github.com/morluto/rea) | 478k | 1 — config persistence (first merged PR, Nov 2026) | 1 |
+| [OpenMontage](https://github.com/OpenMontageInc/OpenMontage) | 83k | 1 — video path bugfix | — |
+| [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 124k | — | 5 |
+| [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 149k | — | 1 |
+| [litellm](https://github.com/BerriAI/litellm) | 64k | — | 1 |
 
-**Latest (Oct–Nov 2026):** 10 issues tackled for [magpie](https://github.com/yetone/magpie) (37k★ desktop AI gateway) — 5 tested fix branches (tray i18n, hit-rate precision, a hanging test, reasoning-token accounting, a pre-start click race) plus 5 deep root-cause analyses posted to issue threads (gateway smart-routing stickiness, Windows orphan processes, per-platform path display, multi-device sync losing model picks), each referencing exact source lines on current main.
+**Latest (Oct–Nov 2026):** 10 issues tackled for [magpie](https://github.com/yetone/magpie) (41k★ desktop AI gateway) — 5 tested fix branches (tray i18n, hit-rate precision, a hanging test, reasoning-token accounting, a pre-start click race) plus 5 deep root-cause analyses posted to issue threads (gateway smart-routing stickiness, Windows orphan processes, per-platform path display, multi-device sync losing model picks), each referencing exact source lines on current main.
 
 Previously: iOS engineer on apps that served tens of millions of users (fitness, fintech).
 
